@@ -1,3 +1,2 @@
 /*! For license information please see 464.0de84501.js.LICENSE.txt */
 (self.webpackChunk_debezium_ui=self.webpackChunk_debezium_ui||[]).push([[464],{23610:(e,n,i)=>{"use strict";i.d(n,{b:()=>t});var t=function(){function e(){}return e.APPLICATION_JSON="application/json",e.APPLICATION_XML="application/xml",e}()},77464:(e,n,i)=>{"use strict";i.r(n),i.d(n,{ContentTypes:()=>a.b});var t=i(43377),u={};for(const e in t)"default"!==e&&(u[e]=()=>t[e]);i.d(n,u);var a=i(23610)},43377:()=>{}}]);
-//# sourceMappingURL=464.0de84501.js.map
